@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    max-width: 1280px;
+    margin: auto;
+    text-align: center;
+    font-family: Verdana;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 50px; 
+    color:white; 
+    font-weight: normal;
+}
+
+a {
+    font-size: 16px;
+    color: aquamarine;
+}
